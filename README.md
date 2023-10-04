@@ -8,7 +8,7 @@
 
 💻 Languages that I know:<br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-📈 Github Stats:<br>
+<br>📈 Github Stats:<br>
 
  ![EdsonMorroNogueira's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdsonMorroNogueira&show_icons=true&theme=synthwave)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonMorroNogueira&layout=donut&theme=synthwave)
 

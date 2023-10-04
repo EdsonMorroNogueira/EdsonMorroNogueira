@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning CSS, JS, HTML and MySQL
 - 💞️ I’m looking to collaborate on Gaming projects, automation and the uses of C++ in games
 - 📫 How to reach me -  E-mail: edson.nogueira@sptech.school --->
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdsonMorroNogueira&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+📈 Github Stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonMorroNogueira)] <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdsonMorroNogueira&show_icons=true&theme=synthwave&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!---
 EdsonMorroNogueira/EdsonMorroNogueira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

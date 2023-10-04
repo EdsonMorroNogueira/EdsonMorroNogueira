@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate on Gaming projects, automation and the uses of C++ in games
 - 📫 How to reach me -  E-mail: edson.nogueira@sptech.school --->
 📈 Github Stats:
+
  ![EdsonMorroNogueira's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdsonMorroNogueira&show_icons=true&theme=synthwave)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonMorroNogueira&layout=donut&theme=synthwave)
 
 <!---

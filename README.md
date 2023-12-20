@@ -11,7 +11,7 @@
 </div>  
   
 
-### <div align="center">I'm Edson Morro Nogueira, a forever student, very flexible on code stats, but great interest and passion for Data, Development, and Analysis.  </div>  
+### <div align="center">I'm Edson Morro Nogueira, a forever student, very flexible on code stats, but great curiosity and passion for Data, Development, and Analysis.  </div>  
   
 
 -  📌 Fun fact: I'm a great fan of Python, but I don't like Indentation. Yes, I really love those guys → {code}.  

@@ -29,7 +29,8 @@
 
 
  ![EdsonMorroNogueira's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdsonMorroNogueira&show_icons=true&theme=synthwave)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonMorroNogueira&layout=donut&theme=synthwave) <br><br>
- 
+
+ <!---
 <div align="center">
 
 ⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⡿⢿⣿⣦⣄⣀⣀⣀⣤⣤⣤⣤⣴⣶⣾⣿⣿⢿⣿⣶⣶⣿⣿⣿⣄⡀⠀⠀⠀⠀⠀⠀
@@ -58,4 +59,4 @@
 ⠀⠀⠀⠀⠀⠀⢀⣿⣿⡇⠀⠀⠀⢸⣿⣧⡳⣌⠳⣌⠳⡜⣬⣷⣾⠟⠂⠀⠀⠀⠀⢀⣿⣿⣿⣿⡿⣽⣿⣎⢯⡝⣾⡜⣿⡿⣱⠂⣂⠡
 ⠀⠀⠀⠀⠀⠀⣼⣿⡿⣿⣆⡀⢂⣶⣾⡟⢏⡴⢫⠜⣣⢓⡬⣛⢿⣷⣦⣔⣢⢶⣴⣾⢿⡙⣿⣿⣿⣟⣿⣯⢞⡽⣳⣹⣿⠷⣍⠖⡠⢂
 ⠀⠀⠀⠀⠀⢠⣿⣿⡜⡽⣻⣿⣿⣿⣷⣾⣮⠔⣋⢎⡱⣊⠴⣯⣾⣍⣿⣿⣿⣟⣯⣓⢮⡝⣦⢻⣿⣿⣻⣿⣾⡱⣧⣿⣏⠿⣐⠯⣐⠡⠀⠀⠀
-</div>  
+</div>   --->
